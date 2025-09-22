@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background: #f5f7fa;
+  color: #222;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+  color: #2c3e50;
+}
+
+.section {
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+}
+
+.section h2 {
+  margin-bottom: 15px;
+  color: #34495e;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 8px;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 25px;
+}
+
+li {
+  margin: 8px 0;
+  line-height: 1.6;
+}
